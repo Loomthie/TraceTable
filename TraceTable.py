@@ -3,6 +3,7 @@ import plotly.graph_objects as go
 import numpy as np
 
 
+
 class TraceTable:
 
     def __init__(self):
